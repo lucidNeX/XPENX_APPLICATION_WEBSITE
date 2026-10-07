@@ -1,0 +1,5 @@
+AddType application/vnd.android.package-archive .apk
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/webp "access plus 1 month"
+</IfModule>
